@@ -16,7 +16,7 @@ const $modalShowInner = document.querySelector('[data-modalShowInner]')
 const $btnClosedShowModal = document.querySelector('[data-btnClosedShowModal]')
 
 
-const basicURL = 'http://sb-cats.herokuapp.com/api/2/RamilKhos'
+const basicURL = 'https://sb-cats.herokuapp.com/api/2/RamilKhos'
 
 class API {
     constructor (basicURL){
